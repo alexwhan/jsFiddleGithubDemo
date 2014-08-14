@@ -13,4 +13,4 @@ var svgContainer = d3.select('body').append('svg')
                 .attr('cx', 100)
                 .attr('cy', 100)
                 .attr('r', 25)
-                .attr('fill', 'red');
+                .attr('fill', 'blue');
